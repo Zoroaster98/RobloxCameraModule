@@ -1,9 +1,21 @@
+# Description
 - Spring Interpolation for camera movment
 - Trigonometric camerashake
 - Perlin noise idle sway
 - Panning with 2d movement (mouse induced)
 - Perlin noise traumatizer, Perlin noise Camerashake
 - Character Module, coded acceleration function, coded manual interpolation for movement
+
+# Instalation
+## With RBXM
+- Upload the file in to the designated name :P
+## Without
+- Dependencies: https://devforum.roblox.com/t/spring-driven-motion-spr/714728
+- Make a part named PCAM under The "CrunchyCam" script
+- Under PCAM create align position and attachment
+- PRESET goes under the main script ( "CrunchyCam")
+
+# Miscellanneous
 - Developed by MrVietChopsticks
 - Pablo Picasso once said "Good artist copy, Great artist steal"
 - Credit:
