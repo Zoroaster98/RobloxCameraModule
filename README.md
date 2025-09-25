@@ -10,7 +10,7 @@
 ### With RBXM
 - Upload the file in to the designated name :P
 ### Without
-- Dependencies: https://devforum.roblox.com/t/spring-driven-motion-spr/714728
+- Dependencies: https://devforum.roblox.com/t/spring-driven-motion-spr/714728 (spr module goes under the main script)
 - Make a part named PCAM under The "CrunchyCam" script
 - Under PCAM create align position and attachment
 - PRESET goes under the main script ( "CrunchyCam")
