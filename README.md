@@ -7,9 +7,9 @@
 - Character Module, coded acceleration function, coded manual interpolation for movement
 
 # Instalation
-## With RBXM
+### With RBXM
 - Upload the file in to the designated name :P
-## Without
+### Without
 - Dependencies: https://devforum.roblox.com/t/spring-driven-motion-spr/714728
 - Make a part named PCAM under The "CrunchyCam" script
 - Under PCAM create align position and attachment
