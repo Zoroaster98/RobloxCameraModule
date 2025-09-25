@@ -1,0 +1,6 @@
+- Spring Interpolation for camera movment
+- Trigonometric camerashake
+- Perlin noise idle sway
+- Panning with 2d movement (mouse induced)
+- Perlin noise traumatizer, Perlin noise Camerashake
+- Character Module, coded acceleration function, coded manual interpolation for movement
