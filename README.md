@@ -7,6 +7,8 @@
 - Character Module, coded acceleration function, coded manual interpolation for movement
 
 # Instalation
+### Optional
+- Download the RBXM and open the file in StartPlayerScripts
 ### With RBXM
 - Upload the file in to the designated name :P
 ### Without
